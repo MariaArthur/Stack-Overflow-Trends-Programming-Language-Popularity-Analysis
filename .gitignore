@@ -1,0 +1,31 @@
+# R-specific
+.Rhistory
+.RData
+.Ruser
+*.Rproj.user
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files (if using RStudio, PyCharm, etc.)
+.idea/
+.vscode/
+*.Rproj
+*.sublime-project
+*.sublime-workspace
