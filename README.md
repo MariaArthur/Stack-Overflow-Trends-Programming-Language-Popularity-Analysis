@@ -11,8 +11,7 @@ This repository contains the code and analysis for exploring the popularity of *
 - Identified the **top 5 programming languages** based on total questions asked between 2015 and 2020.  
 
 ### 📈 **Data Visualization**  
-- **Line Plots** to show the rise and fall of popular languages.  
-- **Bar Charts** to visualize the distribution of top languages.  
+- **Line Plots** to show the rise and fall of popular languages.   
 
 ---
 
