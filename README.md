@@ -54,7 +54,7 @@ This repository contains the code and analysis for exploring the popularity of *
 ## 📚 **Project Origin**  
 This project is based on a **DataCamp** exercise that focuses on using real-world Stack Overflow data to explore programming language trends. It includes data analysis, visualization, and insights using R.  
 
-If you're interested in learning data science and programming, check out [DataCamp](https://www.datacamp.com/) for interactive coding lessons and projects.  
+If you're interested in learning data science and programming, check out [DataCamp]([https://www.datacamp.com/](https://app.datacamp.com/learn/projects/2557)) for interactive coding lessons and projects.  
 
 ---
 
