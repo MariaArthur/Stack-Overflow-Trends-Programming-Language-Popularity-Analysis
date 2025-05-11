@@ -4,7 +4,7 @@ library(dplyr)
 library(ggplot2)
 
 # Load the dataset
-data <- read_csv("C:/Users/Maya/OneDrive/Documents/Uni/Certificates/Data Analytic in R/Project/Analyze the Popularity of Programming Languages/stack_overflow_data.csv")
+data <- read_csv("stack_overflow_data.csv")
 
 # View the dataset
 head(data)
