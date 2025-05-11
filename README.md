@@ -56,10 +56,3 @@ This project is based on a **DataCamp** exercise that focuses on using real-worl
 If you're interested in learning data science and programming, check out [DataCamp](https://app.datacamp.com/learn/projects/2557) for interactive coding lessons and projects.  
 
 ---
-
-## ⚙️ **Installation and Usage**  
-
-### **Clone the Repository**  
-```bash
-git clone https://github.com/your-username/stack-overflow-trends.git
-cd stack-overflow-trends
